@@ -9,4 +9,4 @@ key highlights:
 3.suggested  useful insights created from the KPI's.
 PBIX file link:https://drive.google.com/file/d/1bwE7780HeAuJPbUtp8Ocoey5zp0VpIE3/view?usp=sharing
 
-PDF link:https://drive.google.com/file/d/13k7phLXvUKJBSpoDGTyg9xmwZSq6tcHX/view?usp=sharing
+PDF link:https://drive.google.com/file/d/19uqQFlP7Q2zYSOBF6qrM_azHkOTuu-Li/view?usp=sharing
